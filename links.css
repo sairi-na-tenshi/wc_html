@@ -1,3 +1,9 @@
+a {
+	text-decoration: none; text-decoration: inherit;
+	color: none; color: inherit;
+	cursor: pointer;
+}
+
 p a {
 	color: #66f;
 }
